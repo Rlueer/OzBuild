@@ -11,7 +11,7 @@ Make sure you have the following installed on your machine:
 
 --------------------------------------------------------------
 If you want to clone repo
-- git clone https://github.com/barisbatuhanbolat/ozbuild.git
+- git clone https://github.com/Rlueer/OzBuild.git
 - cd ozbuild
 --------------------------------------------------------------
 
